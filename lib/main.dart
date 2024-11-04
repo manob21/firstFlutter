@@ -50,10 +50,6 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               Padding(
                 padding: const EdgeInsets.all(8.0),
-                child: Text('Two', style: TextStyle(fontSize: 21, fontWeight: FontWeight.w500)),
-              ),
-              Padding(
-                padding: const EdgeInsets.all(8.0),
                 child: Text('Three', style: TextStyle(fontSize: 21, fontWeight: FontWeight.w500)),
               ),
               Padding(
